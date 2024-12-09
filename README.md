@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/b1a3eb8a-617e-4202-9a66-672ccbb61f8e)# Phishing para captura de senhas do Facebook
-
 ### Ferramentas
 
 - Kali Linux
@@ -14,7 +12,7 @@
 - Método de ataque: ```Credential Harvester Attack Method ```
 - Método de ataque: ``` Site Cloner ```
 - Obtendo o endereço da máquina: ``` ifconfig ```
-- URL para clone: http://www.facebook.com
+- URL para clone: http://www.instagram.com
 
 ### Resutados
 
